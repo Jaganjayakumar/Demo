@@ -13,7 +13,7 @@ public class Controller {
 public String display()
 
 {
-return "Welcome to spring World";
+return "Welcome to Spring Boot";
 }
 }
 
